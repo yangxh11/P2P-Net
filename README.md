@@ -3,7 +3,7 @@ Official implementation of "Fine-Grained Object Classification via Self-Supervis
 
 
 # Preparation
-Upzip benchmarks (Stanford Cars, CUB_200_2011..) to "../Data/". See the variable "data_config" in train.py.
+Unzip benchmarks (Stanford Cars, CUB_200_2011..) to "../Data/". See the variable "data_config" in train.py.
 
 # Training and evaluation
 python train.py
