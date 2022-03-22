@@ -11,9 +11,9 @@ Stanford Cars (CAR) - <https://ai.stanford.edu/~jkrause/cars/car_dataset.html>
 
 FGVC-Aircraft (AIR) - <https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/>
 
-Unzip benchmarks to "../Data/". 
+Unzip benchmarks to "../Data/" (See the variable "data_config" in train.py). 
 
-See the variable "data_config" in train.py.
+
 
 # Training and evaluation
 python train.py
