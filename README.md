@@ -1,5 +1,5 @@
 # P2P-Net
-Official implementation of "Fine-Grained Object Classification via Self-Supervised Pose Alignment".
+Official implementation of "Fine-Grained Object Classification via Self-Supervised Pose Alignment". [paper](http://...)
 <!-- ![image](https://github.com/yangxh11/P2P-Net/blob/main/motivation.jpg) -->
 
 <img src="https://github.com/yangxh11/P2P-Net/blob/main/motivation.jpg" width = "600" height = "450" alt="" align=center />
