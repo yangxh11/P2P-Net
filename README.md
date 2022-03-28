@@ -2,7 +2,7 @@
 Official implementation of "Fine-Grained Object Classification via Self-Supervised Pose Alignment".
 <!-- ![image](https://github.com/yangxh11/P2P-Net/blob/main/motivation.jpg) -->
 
-<img src="https://github.com/yangxh11/P2P-Net/blob/main/motivation.jpg" width = "800" height = "500" alt="" align=center />
+<img src="https://github.com/yangxh11/P2P-Net/blob/main/motivation.jpg" width = "800" height = "600" alt="" align=center />
 
 # Preparation
 ## Benchmarks
