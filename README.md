@@ -20,7 +20,9 @@ Unzip benchmarks to "../Data/" (update the variable "data_config" in train.py if
 # Training and evaluation
 
 We train the model with 4 V100. The valid batch size is 16\*4=64.
+```shell
 python train.py
+```
 
 # Performance
 
