@@ -20,12 +20,14 @@ python train.py
 
 # Citation
 
+```
 @article{p2pnet2022,
       title={Fine-Grained Object Classification via Self-Supervised Pose Alignment}, 
       author={Xuhui Yang, Yaowei Wang, Ke Chen, Yong Xu, Yonghong Tian},
       journal={arXiv preprint ...(to be updated)},
       year={2022},
 }
+```
 
 # Acknowledgement
 
