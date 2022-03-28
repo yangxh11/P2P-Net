@@ -22,7 +22,7 @@ python train.py
 
 # Performance
 
-<img src="https://github.com/yangxh11/P2P-Net/blob/main/performance.jpg" width = "400" height = "600" alt="" align=center />
+<img src="https://github.com/yangxh11/P2P-Net/blob/main/performance.jpg" width = "600" height = "400" alt="" align=center />
 
 # Citation
 
