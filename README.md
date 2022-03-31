@@ -1,5 +1,5 @@
 # P2P-Net
-Official implementation of "Fine-Grained Object Classification via Self-Supervised Pose Alignment". [[paper_link_to_be_updated]](http://)
+Official implementation of "Fine-Grained Object Classification via Self-Supervised Pose Alignment". [Paper Link](https://arxiv.org/abs/2203.15987)
 <!-- ![image](https://github.com/yangxh11/P2P-Net/blob/main/motivation.jpg) -->
 
 <img src="https://github.com/yangxh11/P2P-Net/blob/main/motivation.jpg" width = "600" height = "450" alt="" align=center />
@@ -34,7 +34,7 @@ python train.py
 @article{p2pnet2022,
       title={Fine-Grained Object Classification via Self-Supervised Pose Alignment}, 
       author={Xuhui Yang, Yaowei Wang, Ke Chen, Yong Xu, Yonghong Tian},
-      journal={arXiv preprint ...(to be updated)},
+      journal={arXiv preprint arXiv:2203.15987},
       year={2022},
 }
 ```
